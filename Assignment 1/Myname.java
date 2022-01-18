@@ -1,0 +1,8 @@
+class Myname
+{
+public static void main(String args[])
+{
+System.out.println("Hello");
+System.out.println("Bibin Abraham ALex");
+}
+}
